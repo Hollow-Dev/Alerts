@@ -1,0 +1,8 @@
+name: Alerts
+version: 1.0
+author: Jake
+main: me.jake.alert.Main
+commands:
+     alert:
+          description: Sends an alert.
+          usage: </command>
